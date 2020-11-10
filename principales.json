@@ -1,0 +1,9 @@
+{
+    "Principales":[
+	{"img":"Odlaw.png","imgEncontrado":"OdlawEncontrado.png"},
+	{"img":"Waldo.png","imgEncontrado":"WaldoEncontrado.png"},
+	{"img":"Wenda.png","imgEncontrado":"WendaEncontrado.png"},
+	{"img":"Wizard.png","imgEncontrado":"WizardEncontrado.png"},
+	{"img":"Woof.png","imgEncontrado":"WoofEncontrado.png"}  
+    ]
+}

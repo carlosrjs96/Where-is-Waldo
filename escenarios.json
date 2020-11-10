@@ -1,0 +1,7 @@
+{
+    "Escenarios":[
+        {"imgName":"Playa.png","name":"Playa","minY":"140","minX":"1","maxY":"490","maxX":"965"},
+        {"imgName":"Bosque.png","name":"Bosque","minY":"230","minX":"1","maxY":"490","maxX":"965"},
+        {"imgName":"Desierto.png","name":"Desierto","minY":"230","minX":"1","maxY":"490","maxX":"965"}
+    ]
+}
